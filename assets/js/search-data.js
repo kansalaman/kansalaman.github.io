@@ -440,16 +440,24 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-started-my-bachelor-s-in-computer-science-at-iit-bombay-excited-to-begin-this-journey-in-one-of-india-s-premier-engineering-institutions-mortar-board",
+          title: 'Started my Bachelor’s in Computer Science at IIT Bombay! Excited to begin this...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-joining-samsung-electronics-as-software-engineer",
+          title: 'Joining Samsung Electronics as Software Engineer',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-starting-my-master-s-in-computer-science-ai-concentration-at-stanford-university-ready-to-dive-deep-into-ai-research-and-innovation-rocket-brain",
+          title: 'Starting my Master’s in Computer Science (AI concentration) at Stanford University! Ready to...',
+          description: "",
+          section: "News",},{id: "news-joining-granica-as-machine-learning-engineer",
+          title: 'Joining Granica as Machine Learning Engineer',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_4/";
+            },},{id: "news-thrilled-to-join-parallel-web-systems-inc-as-member-of-technical-staff-building-ai-agents-for-deep-web-research-as-an-early-engineer-artificial-satellite-mag",
+          title: 'Thrilled to join Parallel Web Systems Inc. as Member of Technical Staff! Building...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
