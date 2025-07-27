@@ -2,6 +2,12 @@
  * CV shared styles
  *****************************/
 
+// Increase container width for CV pages
+body:has(.cv) .container,
+.cv-page .container {
+  max-width: 1200px !important;
+}
+
 div.container-link-button {
   margin-right: 0.5rem;
 }
