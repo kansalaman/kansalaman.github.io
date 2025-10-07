@@ -33,7 +33,7 @@
       "highlights": [
         "Built Parallel's deep web research agents processing >1M queries/day - achieved #1 on BrowseComp (58% vs 53% runner-up), becoming key highlight of company's public launch",
         "Architected browser automation translating DOM to LLM-readable format and converting agent decisions to Playwright actions, enabling form navigation and CAPTCHA handling via proxies",
-        "Deployed self-improving LLM framework that gradually replaces commercial APIs with finetuned open-source models using LLM-as-judge validation - delivered 40% cost and latency reduction across all Parallel agents",
+        "Building self-improving LLM framework to gradually replace commercial APIs with finetuned open-source models using LLM-as-judge validation - targeting 40% cost and latency reduction across all Parallel agents",
         "Built vision LLM pipeline converting screenshots to markdown, enabling agents to extract structured data from tables, graphs, and visual content",
         "Created domain crawlers templatizing agent actions (pagination, infinite scroll) for exhaustive entity extraction - core technology powering FindAll product ('SQL over the web')"
       ]
@@ -302,6 +302,34 @@
       "awarder": "IIT Bombay",
       "url": "",
       "summary": "Top 1% academic performance"
+    },
+    {
+      "title": "JEE Advanced - All India Rank 15",
+      "date": "2017",
+      "awarder": "Joint Entrance Examination",
+      "url": "",
+      "summary": "Ranked 15th among 200,000+ candidates in India's premier engineering entrance examination"
+    },
+    {
+      "title": "JEE Main - All India Rank 21",
+      "date": "2017",
+      "awarder": "Joint Entrance Examination",
+      "url": "",
+      "summary": "Ranked 21st among 1.2 million candidates in national engineering entrance examination"
+    },
+    {
+      "title": "BITSAT All India Topper",
+      "date": "2017",
+      "awarder": "Birla Institute of Technology and Science",
+      "url": "",
+      "summary": "Secured 1st rank with a score of 454/450 among 190,000+ candidates"
+    },
+    {
+      "title": "National Science Olympiads",
+      "date": "2017",
+      "awarder": "HBCSE (Homi Bhabha Centre for Science Education)",
+      "url": "",
+      "summary": "Chemistry Olympiad: Gold Medal (top 35 out of 39,400 candidates), qualified for OCSC. Physics Olympiad: Top 1% nationally, qualified for INPhO. Astronomy Olympiad: Top 1% nationally, top 34 students, qualified for OCSC"
     },
     {
       "title": "KVPY Scholar",
