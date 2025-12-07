@@ -33,6 +33,7 @@
       "highlights": [
         "Built Parallel's deep web research agents processing >1M queries/day - achieved #1 on BrowseComp (58% vs 53% runner-up), becoming key highlight of company's public launch",
         "Architected browser automation translating DOM to LLM-readable format and converting agent decisions to Playwright actions, enabling form navigation and CAPTCHA handling via proxies",
+        "Built citation excerpting and answer confidence modules that identify supporting URLs/excerpts and calibrate answer reliability - achieved >66% accuracy on high-confidence answers vs <33% on low-confidence, enabling users to trust agent outputs and powering workflow decision logic",
         "Building self-improving LLM framework to gradually replace commercial APIs with finetuned open-source models using LLM-as-judge validation - targeting 40% cost and latency reduction across all Parallel agents",
         "Built vision LLM pipeline converting screenshots to markdown, enabling agents to extract structured data from tables, graphs, and visual content",
         "Created domain crawlers templatizing agent actions (pagination, infinite scroll) for exhaustive entity extraction - core technology powering FindAll product ('SQL over the web')"
